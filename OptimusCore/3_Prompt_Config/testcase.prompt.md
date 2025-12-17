@@ -1,0 +1,11 @@
+1.Login to ZIP with valid credentials
+2.Navigate to 814 interface select broker 2981 and select one policy
+3.Copy policy with  LOB=P&C and  Flat policy=1.(This must be 1 for only flat policy)
+4.Select location from the maintain policy screen press F9 to add location 
+5.Select CA code from drop down in country, add address, postal code.
+6.Add the coverages under the selected module
+7.Quote and Bind to generate the policy 
+8.Enter the new policy number select 1 and in policy info select cancel 
+9.Cancellation requested and reason for cancellation must be provided from the dropdown list  as they are mandatory also enter the flat policy premium and confirm
+10.Navigate 814 interface and check the created and cancelled policy under specific broker (2981)
+11.Validate Premium amount for the specific policies in 814 interface.
